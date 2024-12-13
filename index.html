@@ -34,6 +34,43 @@ title: Home
     <li><div class="button" data-ref="#papers-all">All</div></li>
   </ul>
 
+  <!-- 2025 -->
+  <div class="tab-content">
+    <div class="tab-pane active" id="papers-2025">
+      {% assign papers_2025 = site.data.publications.papers | where: "year", "2025" %}
+      {% for paper in papers_2025 %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b>
+          {% if paper.paper_pdf %}
+            <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+          {% endif %}
+
+          {% if paper.slides %}
+            <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+          {% endif %}
+
+          {% if paper.poster %}
+            <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+          {% endif %}
+
+          {% if paper.video %}
+            <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+          {% endif %}
+
+          {% if paper.code %}
+            <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+          {% endif %}
+
+          {% if paper.data %}
+            <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+          {% endif %}
+          </p>
+          <p>{{ paper.authors }}</p>
+          <p><b style="color:blue"><i>{{ paper.venue }}</i></b></p>
+        </div>
+      {% endfor %}
+    </div>
+  
   <!-- 2024 -->
   <div class="tab-content">
     <div class="tab-pane active" id="papers-2024">
