@@ -1,7 +1,22 @@
 papers:
 
+  - title: "Vision Transformer-based... [Full Title to be disclosed after acceptance]"
+    authors: "<b>Sangyoon Lee</b>, Yu-Hui Huang, Francesca Branzoli, James Hodges, Thanh B. Nguyen, Ovidiu Andronesi, Alexander Lin, Roberto Liserre, Gerd Melkus, Clark C. Chen, Patrick Bolan, and Małgorzata Marjańska"
+    year: "2025"
+    selected: y
+
+  - title: "Assessment of MRS... [Full Title to be disclosed after acceptance]"
+    authors: "<b>Sangyoon Lee</b>, Yu-Hui Huang, Francesca Branzoli, James Hodges, Thanh B. Nguyen, Ovidiu Andronesi, Alexander Lin, Roberto Liserre, Gerd Melkus, Clark C. Chen, Patrick Bolan, and Małgorzata Marjańska"
+    year: "2025"
+    selected: y
+
+  - title: "Predicting Dose Heterogeneity... [Full Title to be disclosed after acceptance]"
+    authors: "<b>Sangyoon Lee</b>, Shubuendu Mishra, Yoichi Watanabe"
+    year: "2025"
+    selected: y
+
   - title: "A Deep Learning Approach for Placing Magnetic Resonance Spectroscopy Voxels in Brain Tumors"
-    authors: "<b>Sangyoon Lee</b>, Francesca Branzoli, Thanh Nguyen, Ovidiu Andronesi, Alexander Lin, Roberto Liserre, Gerd Melkus, Clark Chen, Małgorzata Marja´nska, Patrick J. Bolan"
+    authors: "<b>Sangyoon Lee</b>, Francesca Branzoli, Thanh Nguyen, Ovidiu Andronesi, Alexander Lin, Roberto Liserre, Gerd Melkus, Clark Chen, Małgorzata Marjańska, Patrick J. Bolan"
     venue: "MICCAI Conference. 2024."
     paper_pdf: "/assets/publications/2024_MICCAI/MICCAI_2024.pdf"
     year: "2024"
