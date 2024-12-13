@@ -22,3 +22,10 @@ papers:
     code: "https://github.com/cychoi97/GGCL"
     year: "2023"
     selected: y
+    
+  - title: "Membrane Rigidity-Tunable Fusogenic Nanosensor for High Throughput Detection of Fusion-Competent Influenza A Virus"
+    authors: "Chaewon Park, Eunjung Kim, Geunseon Park, Byoung Choul Kim, Srivithya Vellampatti, Jong-Woo Lim, Sojeong Lee, Soohyun Chung, Sung-Hoon Jun, <b>Sangyoon Lee</b>, Sajid Ali, Minjoo Yeom, Daesub Song, Seungjoo Haam"
+    venue: "Advanced Functional Materials. 2023."
+    paper_pdf: "/assets/publications/2023_Adv_Func/AdvFuncMat_2023.pdf"
+    year: "2023"
+    selected: y
