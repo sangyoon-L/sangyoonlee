@@ -10,3 +10,9 @@ papers:
     venue: "IEEE TMI. 2024."
     paper_pdf: "/assets/publications/2023_IEEE/IEEE_TMI.pdf"
     code: "https://github.com/babbu3682/MTD-GAN"
+
+    - title: "CT Kernel Conversion Using Multi-domain Image-to-Image Translation with Generator-Guided Contrastive Learning"
+    authors: "Changyong Choi, Jiheon Jeong, <b>Sangyoon Lee</b>, Sang Min Lee, Namkug Kim"
+    venue: "MICCAI Conference. 2024."
+    paper_pdf: "/assets/publications/2023_MICCAI/MICCAI_2023.pdf"
+    code: "https://github.com/cychoi97/GGCL"
