@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /sangyoon
+baseurl: /sangyoonlee
 
 collections:
   projects:
