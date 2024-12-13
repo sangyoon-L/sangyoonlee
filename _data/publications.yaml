@@ -17,7 +17,7 @@ papers:
 
   - title: "CT Kernel Conversion Using Multi-domain Image-to-Image Translation with Generator-Guided Contrastive Learning"
     authors: "Changyong Choi, Jiheon Jeong, <b>Sangyoon Lee</b>, Sang Min Lee, Namkug Kim"
-    venue: "MICCAI Conference. 2024."
+    venue: "MICCAI Conference. 2023."
     paper_pdf: "/assets/publications/2023_MICCAI/MICCAI_2023.pdf"
     code: "https://github.com/cychoi97/GGCL"
     year: "2023"
