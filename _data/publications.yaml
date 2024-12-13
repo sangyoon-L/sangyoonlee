@@ -4,15 +4,21 @@ papers:
     authors: "<b>Sangyoon Lee</b>, Francesca Branzoli, Thanh Nguyen, Ovidiu Andronesi, Alexander Lin, Roberto Liserre, Gerd Melkus, Clark Chen, Małgorzata Marja´nska, Patrick J. Bolan"
     venue: "MICCAI Conference. 2024."
     paper_pdf: "/assets/publications/2024_MICCAI/MICCAI_2024.pdf"
+    year: "2024"
+    selected: y
 
   - title: "Generative Adversarial Network with Robust Discriminator Through Multi-Task Learning for Low-Dose CT Denoising"
     authors: "Sunggu Kyung, Jongjun Won, Seongyong Pak, Sunwoo Kim, <b>Sangyoon Lee</b>, Kanggil Park, Gil-Sun Hong, Namkug Kim"
     venue: "IEEE TMI. 2024."
     paper_pdf: "/assets/publications/2023_IEEE/IEEE_TMI.pdf"
     code: "https://github.com/babbu3682/MTD-GAN"
+    year: "2024"
+    selected: y
 
   - title: "CT Kernel Conversion Using Multi-domain Image-to-Image Translation with Generator-Guided Contrastive Learning"
     authors: "Changyong Choi, Jiheon Jeong, <b>Sangyoon Lee</b>, Sang Min Lee, Namkug Kim"
     venue: "MICCAI Conference. 2024."
     paper_pdf: "/assets/publications/2023_MICCAI/MICCAI_2023.pdf"
     code: "https://github.com/cychoi97/GGCL"
+    year: "2023"
+    selected: y
